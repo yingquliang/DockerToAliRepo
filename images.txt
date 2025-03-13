@@ -22,3 +22,4 @@ registry.k8s.io/coredns:1.7.0
 registry.k8s.io/etcd:3.4.13-0
 registry.k8s.io/pause:3.2
 docker.io/calico/cni:v3.20.6
+docker.io/calico/pod2daemon-flexvol:v3.20.6
